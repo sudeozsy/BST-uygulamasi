@@ -1,0 +1,9 @@
+sude 50
+said 20
+ali 45
+seher 12
+gizem 70
+sude 41
+ali 74
+fatma 90
+sinem 73
